@@ -1,0 +1,16 @@
+{
+  "name": "imobcrm",
+  "version": "1.0.0",
+  "description": "ImobCRM - Sistema de Gestão Unificado",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.1.5"
+  },
+  "dependencies": {
+    "puppeteer": "^25.3.0"
+  }
+}
